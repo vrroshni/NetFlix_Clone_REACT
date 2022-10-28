@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+netflix_react/node_modules
+netflix_react/.pnp
+netflix_react/.pnp.js
+
+# testing
+netflix_react/coverage
+
+# production
+netflix_react/build
+
+# misc
+netflix_react/.DS_Store
+netflix_react/.env.local
+netflix_react/.env.development.local
+netflix_react/.env.test.local
+netflix_react/.env.production.local
+
+netflix_react/npm-debug.log*
+netflix_react/yarn-debug.log*
+netflix_react/yarn-error.log*
